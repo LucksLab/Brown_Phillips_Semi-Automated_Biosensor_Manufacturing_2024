@@ -1,6 +1,6 @@
 # Brown_Phillips_Semi-Automated_Biosensor_Manufacturing_2024
 
-## **Code for Brown and Philips et. al. “Semi-automated production of cell-free biosensors”**
+## **Code for Brown and Phillips et. al. “Semi-automated production of cell-free biosensors”**
 
 This repo contains python code and data files for analysis used in Brown and Philips et. al. “Semi-automated production of cell-free biosensors”
 
