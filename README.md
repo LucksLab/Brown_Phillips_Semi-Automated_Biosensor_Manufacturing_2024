@@ -12,7 +12,7 @@ This repo contains python code and data files for analysis used in Brown and Phi
 ## **Downloading Files**
 Files can be downloaded manually or obtained by:
    
-    git clone LINK
+    git clone [LINK](https://github.com/LucksLab/Brown_Phillips_Semi-Automated_Biosensor_Manufacturing_2024.git)
 
 ## **System Requirements**
 The python packages required for a Python 3 Jupyter Notebook are as follows
