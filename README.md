@@ -4,7 +4,7 @@
 
 This repo contains python code and data files for analysis used in Brown and Philips et. al. “Semi-automated production of cell-free biosensors”
 
-1.	`Figure_1_Curve_Fitting.ipynb` contains code for determining the time to half maximum signal, half maximum signal, and maximum signal of the data contained in Figure_1_Raw_Data_LacZ.xlsx and Figure_1_Raw_Data_sfGFP.xlsx for their corresponding reporters. 
+1.	`Figure_1_Curve_Fitting.ipynb` contains code for determining the time to half maximum signal, half maximum signal, and maximum signal of the data contained in `Figure_1_Raw_Data_LacZ.xlsx` and `Figure_1_Raw_Data_sfGFP.xlsx` for their corresponding reporters. 
 2.	`Figure_2_Analysis.ipynb` contains code for analyzing the time to half max signal, half max signal, and max signal of cell-free reactions for an entire 384 well plate. Then, this notebook will classify the outputs into H, M, L values corresponding to the interleaved signal format used in Supplemental Figure 3. Following this the notebook is used to generate swarm and violin plots, and then calculate the fraction of reactions with values above the maximum value of L and the fraction of reactions with values above 0.5 uM FITC signal, as well as the expected/predicted outcomes of this experimental set. 
 3.	`Figure_1_Sensor_Build.json` provides the Opentrons code for replicating  the experiments carried out in Figure 1 in Brown and Philips et. al. “Semi-automated production of cell-free biosensors”.
 4.	`Figure_2_Sensor_Build.py` provides the Opentrons code for manufacturing 96 up to1056 biosensor reactions in 96-well plates.
