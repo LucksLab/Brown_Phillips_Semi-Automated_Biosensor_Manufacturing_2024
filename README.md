@@ -54,5 +54,5 @@ Note depending on modifications to the experimental conditions, the interleaved 
 
 ### *Opentrons Protocols*
 
-Opentrons protocols `Figure_1_Sensor_Build.json` and `Figure_2_Sensor_Build.py` can be uploaded into the Opentrons app, which will them provide information on deck set up and allow for the protocols to be ran. 
+Opentrons protocols `Figure_1_Sensor_Build.json` and `Figure_2_Sensor_Build.py` can be uploaded into the Opentrons app, which will then provide information on deck set up and allow for the protocols to be run. 
 
