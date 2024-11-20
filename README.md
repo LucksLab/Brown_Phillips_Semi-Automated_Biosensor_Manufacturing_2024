@@ -35,7 +35,7 @@ Change the path found in the Jupyter notebook to the path of xlsx files
 
 Running this notebook should generate output files `Figure_1_Output_Half_Max_Times_LacZ.xlsx`, `Figure_1_Output_Half_Max_Times_sfGFP.xlsx`, `Figure_1_Output_Max_Signals_LacZ.xlsx`, `Figure_1_Output_Max_Signals_sfGFP.xlsx` in the same path as the input excel files. 
 
-Violin plots are then generated from these excel files and saved into the folder path as svg files. 
+Violin plots are then generated from these excel files after compiling into `Figure_1_Violin_Plot_Raw_Data.xlsx` and `Figure_1_Violin_Plot_Raw_Data_Separate.xlsx`and saved into the folder path as svg files. 
 
 ### *Figure 2 Data*
 For `Figure_2_Analysis.ipynb`
